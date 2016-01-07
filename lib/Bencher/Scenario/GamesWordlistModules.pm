@@ -1,4 +1,4 @@
-package Bencher::Scenario::GamesWordlists;
+package Bencher::Scenario::GamesWordlistModules;
 
 # DATE
 # VERSION
