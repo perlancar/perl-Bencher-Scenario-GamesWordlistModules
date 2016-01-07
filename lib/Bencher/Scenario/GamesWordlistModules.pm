@@ -23,3 +23,7 @@ our $scenario = {
 
 1;
 # ABSTRACT:
+
+=head1 SEE ALSO
+
+L<Bencher::Scenario::WordListModules>
