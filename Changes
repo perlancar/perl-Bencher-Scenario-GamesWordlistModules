@@ -1,5 +1,12 @@
 Revision history for Bencher-Scenario-GamesWordlistModules
 
+0.03    2016-01-08 (PERLANCAR)
+
+	- No functional changes.
+
+	- [doc] Mention Bencher::Scenario::WordListModules.
+
+
 0.02    2016-01-07 (PERLANCAR)
 
         - Rename module/dist from Bencher-Scenario-GamesWordlist{s,Modules}.
