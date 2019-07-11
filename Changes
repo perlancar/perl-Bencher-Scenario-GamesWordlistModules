@@ -1,4 +1,4 @@
-0.04    2017-01-25 (PERLANCAR)
+0.04    2017-01-25  Released-By: PERLANCAR
 
 	- No functional changes.
 
@@ -7,18 +7,18 @@
           type=x_benchmarks.
 
 
-0.03    2016-01-08 (PERLANCAR)
+0.03    2016-01-08  Released-By: PERLANCAR
 
 	- No functional changes.
 
 	- [doc] Mention Bencher::Scenario::WordListModules.
 
 
-0.02    2016-01-07 (PERLANCAR)
+0.02    2016-01-07  Released-By: PERLANCAR
 
         - Rename module/dist from Bencher-Scenario-GamesWordlist{s,Modules}.
 
 
-0.01    2016-01-07 (PERLANCAR)
+0.01    2016-01-07  Released-By: PERLANCAR
 
         - First release.
